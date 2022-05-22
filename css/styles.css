@@ -14,7 +14,7 @@ body {
   color: var(--main-color);
 }
 
-h1, h2, h3, h4, h5, h6, ul,
+/* h1, h2, h3, h4, h5, h6, ul,
 ol{
   margin: 0;
   padding: 0;
@@ -31,7 +31,7 @@ p, figure, button{
 
 img {
 display: block;
-}
+} */
 
 .list{
   list-style-type: none;
@@ -42,31 +42,31 @@ display: block;
   font-style: none;
 }
 
-.container{
+/* .container{
   width: 1200px;
   align-items:center;
   margin-top: auto;
   margin-bottom: auto;
   padding-right: 15px;
   padding-left: 15px;
-}
+} */
 /* ============ heder ============== */
-.center{
+/* .center{
   display: flex;
   justify-content: center;
   align-items: center;
   
-}
-.header .container{
+} */
+/* .header .container{
   display: flex;
   padding-top: 25px;
   padding-bottom: 24px;
   border-bottom: 1px solid #ECECEC;
 
-  /* align-items: center; */
 }
+ */
 
-.navigation{
+/* .navigation{
   display: flex;
 }
 
@@ -92,7 +92,7 @@ display: block;
 
 .header-tel{
   margin-left: 50px;
-}
+} */
   
 /* ===========   HEADER  =============== */
 /* ===========   SECTION ORDERS =============== */
